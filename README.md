@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juanma</h1>
 <h3 align="center">A student backend developer from Spain</h3>
 
-💬 Ask me about **Java , Spring Framework, SQL, JavaFX, MVC**
+💬 Ask me about **Java, PHP, Laravel, Spring Framework, SQL, JavaFX, MVC**
 
 📫 How to reach me **juanmangel05@gmail.com**
 
