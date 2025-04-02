@@ -32,8 +32,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img align="right" height="150"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJrY3ZpcWdnbXQzbG9lYXgzdmt4anZ2endtZzhwN3djOXJpYTNxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  />
+  
 </div>
+<img align="right" height="150"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJrY3ZpcWdnbXQzbG9lYXgzdmt4anZ2endtZzhwN3djOXJpYTNxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif"  />
 
 ###
 
